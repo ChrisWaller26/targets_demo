@@ -1,0 +1,70 @@
+---
+title: "Validation"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Frequency
+
+## ECDF
+
+### Model 1
+
+```{r}
+
+pp_check(freq_model_fit1,
+        type = "ecdf_overlay")
+
+```
+
+### Model 2
+
+```{r}
+
+pp_check(freq_model_fit2,
+        type = "ecdf_overlay")
+
+```
+
+## Intervals
+
+### Model 1
+
+```{r}
+
+pp_check(freq_model_fit1,
+        type = "intervals")
+
+```
+
+### Model 2
+
+```{r}
+
+pp_check(freq_model_fit2,
+        type = "intervals")
+
+```
+
+## Boxplot
+
+### Model 1
+
+```{r}
+
+pp_check(freq_model_fit1,
+        type = "boxplot")
+
+```
+
+### Model 2
+
+```{r}
+
+pp_check(freq_model_fit2,
+        type = "boxplot")
+
+```

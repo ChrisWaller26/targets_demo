@@ -1,0 +1,14 @@
+name|type|data|command|depend|seed|path|time|size|bytes|format|iteration|parent|children|seconds|warnings|error
+get_freq_model_fit1|function|991403c7c800609b||||||||||||||
+get_freq_model_fit2|function|4b5ef43278b55647||||||||||||||
+get_freq_data|function|02113e8ffa044290||||||||||||||
+.Random.seed|object|ed6c5af3f3d1f68b||||||||||||||
+pseudo_n|object|d01271d5e160b79a||||||||||||||
+get_sev_data|function|9815011168ce36df||||||||||||||
+pseudo_pars_file|stem|e1b9065579400182|d32f73bc4d668b23|ef46db3751d8e999|-1454316342|01_Data/pseudo_pars.csv|t19044.7473163164s|bd589ebb56695fff|72|file|vector|||0||
+pseudo_pars|stem|64b952b22d2c2152|e264163c9a2b4680|a0290a0ab44574f2|616212842||t19044.7478911852s|1bdd4da2b01d4d0b|196|rds|vector|||0||
+freq_data|stem|a296d4b8a0a9e181|1eb49f0cf8d81382|a849f5bb9d4e1dc8|1143848390||t19044.7478914853s|fbad4a20659737b8|9938|rds|vector|||0.01||
+freq_model_fit1|stem|025466715af1a881|39f6bb419f29a2fa|47154c50072af10b|-1732382728||t19044.7480312005s|d6a80268972971b7|67698|rds|vector|||12.05||
+freq_model_fit2|stem|d5542492a0e93be0|5d70eac01ec38393|6cc772b5a1a881a1|-565445869||t19044.7485782205s|447d618f57e41e5d|175597|rds|vector|||47.25||
+sev_data|stem|503b5226f4899f14|087f1f1e877ad56b|ad8de7d572724695|764642818||t19044.7485803574s|0601556c83e93c40|45716|rds|vector|||0.17||
+validation_doc|stem|b694115f4986974e|3cb0847281b24f26|853be03f80a42e29|1945559914||t19044.7487816026s|1eaa52c6e32a7b9e|113|rds|vector|||17.38|Tools not installed or not in PATH ghostcript As a result, figure cropping will be disabled.|
